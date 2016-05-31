@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 #
-# Danal  - Python interface to Danal Payment Tool
+# Danal  - Python interface for Danal Payment
 # Copyright (c) 2015 rocksea
 #   https://github.com/rocksea/danal-core
 # 
